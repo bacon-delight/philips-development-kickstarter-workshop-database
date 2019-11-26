@@ -34,13 +34,6 @@
 			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
 			"duration": "5 Nights",
 			"price": "Rs. 14000/-"
-		},
-		{
-			"id": 6,
-			"title": "Kodaikanal and Munnar Full Package",
-			"description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-			"duration": "12 Nights",
-			"price": "Rs. 35000/-"
 		}
 	],
 	"benefits": [
@@ -95,11 +88,6 @@
 			"id": 5,
 			"name": "Jason Bourne",
 			"description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-		},
-		{
-			"id": 6,
-			"name": "Jack Wilson",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 		}
 	],
 	"hotels": [
