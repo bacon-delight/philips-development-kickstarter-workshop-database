@@ -1,14 +1,73 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"packages": [
+		{
+			"id": 1,
+			"title": "Coorg Weekend Package",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+			"duration": "2 Nights",
+			"price": "Rs. 5000/-"
+		},
+		{
+			"id": 2,
+			"title": "Bandipur Safari",
+			"description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"duration": "5 Nights",
+			"price": "Rs. 17000/-"
+		},
+		{
+			"id": 3,
+			"title": "Wayanad Honeymoon Package",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"duration": "3 Nights",
+			"price": "Rs. 8000/-"
+		},
+		{
+			"id": 4,
+			"title": "Mysore, Gudalur and Ooty Tour",
+			"description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"duration": "8 Nights",
+			"price": "Rs. 23000/-"
+		},
+		{
+			"id": 5,
+			"title": "Coorg Full Package",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+			"duration": "5 Nights",
+			"price": "Rs. 14000/-"
+		},
+		{
+			"id": 6,
+			"title": "Kodaikanal and Munnar Full Package",
+			"description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"duration": "12 Nights",
+			"price": "Rs. 35000/-"
+		}
+	],
+	"benefits": [
+		{
+			"id": 1,
+			"title": "Airport Pickup and Drop",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+			"id": 2,
+			"title": "Full Time Medical Assistance",
+			"description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+		},
+		{
+			"id": 3,
+			"title": "Air Conditioned Vehicles",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sunt in culpa qui officia deserunt mollit anim id est laborum."
+		},
+		{
+			"id": 4,
+			"title": "Complimentary Sight Seeings",
+			"description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+		},
+		{
+			"id": 5,
+			"title": "Exciting Packages and Offers",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		}
+	]
 }
