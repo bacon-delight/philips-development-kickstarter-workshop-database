@@ -7,3 +7,4 @@ Thank you all for attending the workshop, this repository contains the code for 
 - [Fake API Server](https://my-json-server.typicode.com/bacon-delight/philips-development-kickstarter-workshop-db)
 - [Vue Documentation](https://vuejs.org/v2/guide/)
 - [Project Codebase](https://github.com/bacon-delight/philips-development-kickstarter-workshop-codebase)
+- [Medium Article](https://medium.com/@dipanjande/surviving-the-javascript-apocalypse-74545a84cdc2)
